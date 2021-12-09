@@ -1,0 +1,12 @@
+{
+  "name": "chongianlan",
+  "version": "1.0.0",
+  "description": "Chong Gian Lan",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron .",
+  },
+  "author": "Tran Nhat Nam & code004Accepted",
+  "license": "GPL-3.0",
+   }
+}
